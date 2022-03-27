@@ -4,7 +4,8 @@ This project is a very small 2D game. Its purpose is to make you work with textu
 # DEMO 
 https://user-images.githubusercontent.com/79755743/160272140-718f5518-1102-4b03-82de-2f254ac15881.mov
 
-### Usage :  ./so_long map/mapname.ber
+### Usage :       
+##### ./so_long map/mapname.ber
 
 https://user-images.githubusercontent.com/79755743/160272138-40d1be07-1093-4779-8cdb-b3cb1466a094.mov
 
