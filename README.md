@@ -1,6 +1,13 @@
 # so_long
 This project is a very small 2D game. Its purpose is to make you work with textures, sprites, and some other very basic gameplay elements.
 
+# DEMO 
+https://user-images.githubusercontent.com/79755743/160272140-718f5518-1102-4b03-82de-2f254ac15881.mov
+
+
+https://user-images.githubusercontent.com/79755743/160272138-40d1be07-1093-4779-8cdb-b3cb1466a094.mov
+
+
 
 
 # MiniLibX
@@ -23,13 +30,6 @@ This project is a very small 2D game. Its purpose is to make you work with textu
 ### Resize image (by pixels): https://www.iloveimg.com/resize-image#resize-options,pixels
 ### Edit background : https://www.remove.bg/upload
 ### https://gontjarow.github.io/MiniLibX/mlx-tutorial-create-image.html
-
-
-
-
-
-
-
 
 
 
