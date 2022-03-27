@@ -3,10 +3,26 @@ This project is a very small 2D game. Its purpose is to make you work with textu
 
 
 
+# MiniLibX
+###### A small library which implements some basic functions that allow you to quickly open a window and to draw within it.
+
+# OpenGL 
+###### (Open Graphics Library]) is a cross-language, cross-platform application programming interface (API) for rendering 2D and 3D vector graphics. 
+
+# AppKit
+###### Construct and manage a graphical, event-driven user interface for your macOS app. AppKit contains all the objects you need to implement the user interface for a macOS app—windows, panels, buttons, menus, scrollers, and text fields—and it handles all the details for you as it efficiently draws on the screen, communicates with hardware devices and screen buffers, clears areas of the screen before drawing, and clips views
+
+# XPM
+#### X Windows system pixmap (color)
+###### This is an image file format written in textual form in the C language. It is used in the X Windows System interface for remote connections, which is designed to serve clients and servers. This format can be used to store color and monochrome images.
 
 
-
-
+# Resources
+### https://harm-smits.github.io/42docs/libs/minilibx/events.html#mlx_hook
+### Convert PNG-JPG to XPM : https://www.imageconvert.org/png-to-xpm
+### Resize image (by pixels): https://www.iloveimg.com/resize-image#resize-options,pixels
+### Edit background : https://www.remove.bg/upload
+### https://gontjarow.github.io/MiniLibX/mlx-tutorial-create-image.html
 
 
 
